@@ -1,0 +1,17 @@
+C:\Users\adria\notetakingapp\bin\Debug\net8.0-windows\notetakingapp.exe
+C:\Users\adria\notetakingapp\bin\Debug\net8.0-windows\notetakingapp.deps.json
+C:\Users\adria\notetakingapp\bin\Debug\net8.0-windows\notetakingapp.runtimeconfig.json
+C:\Users\adria\notetakingapp\bin\Debug\net8.0-windows\notetakingapp.dll
+C:\Users\adria\notetakingapp\bin\Debug\net8.0-windows\notetakingapp.pdb
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.Form1.resources
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.Properties.Resources.resources
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.csproj.GenerateResource.cache
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.AssemblyInfoInputs.cache
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.AssemblyInfo.cs
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.csproj.CoreCompileInputs.cache
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.dll
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\refint\notetakingapp.dll
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.pdb
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\notetakingapp.genruntimeconfig.cache
+C:\Users\adria\notetakingapp\obj\Debug\net8.0-windows\ref\notetakingapp.dll
